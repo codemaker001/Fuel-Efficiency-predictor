@@ -48,7 +48,7 @@ Transmission, Fuel type, etc. and to create a U.I. for User to find the consumpt
 - In this Visualization, we can observe that the maximum number of vehicles consume fuel in the range of 7 to 14 liters for 100km
 <img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/GNPrWaBHJb.png">
 
-for indepth Univariate analysis understanding 👉 https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/FUEL_CONSUMPTION_ANALYSIS_FILE.ipynb
+for indepth Univariate analysis understanding 👉 https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/FUEL_CONSUMPTION_ANALYSIS_FILE.ipynb
 
 <h3> Bivariate Analysis : </h3>
 
