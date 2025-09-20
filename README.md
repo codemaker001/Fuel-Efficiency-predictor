@@ -41,38 +41,38 @@ Transmission, Fuel type, etc. and to create a U.I. for User to find the consumpt
 <h3> Univariate Analysis : </h3>
 
 - In this Visualization, we can observe how many vehicles are present in each Transmission type. 
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/rWBj1FLmYy.jpg">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/rWBj1FLmYy.jpg">
 
 
 
 - In this Visualization, we can observe that the maximum number of vehicles consume fuel in the range of 7 to 14 liters for 100km
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/GNPrWaBHJb.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/GNPrWaBHJb.png">
 
 for indepth Univariate analysis understanding 👉 https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/FUEL_CONSUMPTION_ANALYSIS_FILE.ipynb
 
 <h3> Bivariate Analysis : </h3>
 
 - In this pair plot Visualization, we can observe different scatter plots giving the relation between all features.
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/WIQ5l2SV3x.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/WIQ5l2SV3x.png">
 
 - In this bar graph Visualization, we can observe as the number of cylinders increases the fuel consumption is also increasing. 
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/PY7pHl2hHh.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/PY7pHl2hHh.png">
 
 - This Correlation Heatmap gives relation between all features of data set.
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/7Jcc6Gaz2w.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/7Jcc6Gaz2w.png">
 
 <h2> 
   🤖M.L. Model-
 </h2>
 - In this project, tried a total of three machine learning models linear regression, decision tree, and random forest. at last, we found that the linear model is best suitable as per the accuracy as well as the above analysis we found the data is full filling the linear regression assumptions.
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/ujG4xnDxrx.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/ujG4xnDxrx.png">
 
 
 <h2> 
   🤖M.L. Model Deployment-
 </h2>
 - Used pickle library to create a sas (Statistical Analysis System) file for model deployment.
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/Gx4uLvvwma.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/GNPrWaBHJb.png">
 
 
 <h2> 
@@ -83,7 +83,7 @@ for indepth Univariate analysis understanding 👉 https://github.com/manishhemn
 <br>
 click on image to use U.I. :
 <a href="https://fuel-consumption-rating.streamlit.app/">
-<img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/OCpdLj8B7l.png">
+<img src="https://github.com/codemaker001/Fuel-Efficiency-predictor/blob/main/images/OCpdLj8B7l.png">
 </a>
 
 
